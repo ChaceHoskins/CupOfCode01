@@ -21,4 +21,3 @@ print('{:06.2f}'.format(3.141592653589793))
 
 data = {'first': 'Hannah', 'last':'Yomama'}
 print('{first} {last}'.format(**data))
-
